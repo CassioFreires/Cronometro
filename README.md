@@ -1,6 +1,6 @@
 # Cronômetro
 > Sistema de um cronômetro com fins didáticos.
-<a href="#">Ver projeto</a>
+<a href="https://cassiofreires.github.io/Cronometro/">Ver projeto</a>
 
 # Versão desktop 🖥
 <div>
